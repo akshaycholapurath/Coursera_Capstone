@@ -1,2 +1,2 @@
-# Coursera_Capstone
-This is a Data Science Capstone Project Repository
+# Toronto Neighbourhood Analysis
+This is a Data Science project in which i have made indepth data analysis, clustering and data visualization. This project is mainly focused on exploring different importatn venues around different neighbourhood in Toronto. I have aquired data regarding the different Toronto neighbourhood by making use of the Foursquare API. Then i have analysed different neighbourhood based on the aquired data and finally clustered it into segments based on the venues which are within 500 m radius and then i have mapped it onto Toronto Map using the Folium library.
